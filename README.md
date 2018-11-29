@@ -1,3 +1,20 @@
+# angular7BasicSite_Angular7
+A basic site created using Angular 7 front-end framework. 
+
+Building the site has taught me a few things about Angular:
+
+- Installation & the Angular CLI
+- Templating
+- Styling
+- Components
+- Event binding
+- Property binding
+- Services
+- HTTP Client
+- Forms
+
+..and more
+
 # Angular7BasicSite
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
